@@ -291,3 +291,8 @@ Wide styles
 .pub li:target {
 	background-color: #E6E6FA;
 }
+
+.grant-image-img {
+	height: 90px;
+}
+
