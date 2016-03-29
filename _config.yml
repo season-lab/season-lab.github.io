@@ -1,0 +1,9 @@
+title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza University of Rome
+# email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza University of Rome.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://season-lab.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
