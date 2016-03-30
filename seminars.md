@@ -48,6 +48,7 @@ The Excellence Program of the B.Sc. and M.Sc. in Engineering in Computer Science
 
 * **Taint analysis**:
 	* [TAINTCHECK-NDSS05] Dynamic Taint Analysis for Automatic Detection, Analysis, and Signature Generation of Exploits on Commodity Software. NDSS 2005. [[PDF]](http://valgrind.org/docs/newsome2005.pdf)
+	* [BK-OOPSLA14] Jonathan Bell and Gail Kaiser. 2014. Phosphor: illuminating dynamic data flow in commodity JVMs. OOPSLA 2014. [[PDF]](https://mice.cs.columbia.edu/getTechreport.php?techreportID=1569) [[DOI]](http://dx.doi.org/10.1145/2714064.2660212)
 	* Jonathan Salwan. Taint analysis and pattern matching with Pin. [[URL]](http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/)
 	* Edward J. Schwartz, Thanassis Avgerinos, and David Brumley. All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask). IEEE SP 2010.[[PDF]](https://users.ece.cmu.edu/~ejschwar/papers/oakland10.pdf) [[DOI]](http://dx.doi.org/10.1109/SP.2010.26)
 
