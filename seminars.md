@@ -31,7 +31,7 @@ Le risorse elencate, ove non disponibili, possono essere richieste via mail al g
 * **Buffer Overflow**:
 	* Brian Hackett, Manuvir Das, Daniel Wang, and Zhe Yang. Modular checking for buffer overflows in the large. ICSE 2006. [[PDF]](http://research.microsoft.com/pubs/70226/tr-2005-139.pdf) [[DOI]](http://dx.doi.org/10.1145/1134285.1134319)
 
-* **Abstract interpretation**
+<!-- * **Abstract interpretation** -->
 
 * **Data Flow Analysis**:
 	* Chapter 2 of [PPA]
@@ -54,9 +54,9 @@ Le risorse elencate, ove non disponibili, possono essere richieste via mail al g
 	* [VALGRIND-PLDI07] Nicholas Nethercote and Julian Seward. Valgrind: a framework for heavyweight dynamic binary instrumentation. PLDI 2007. [[PDF]](http://valgrind.org/docs/valgrind2007.pdf) [[DOI]](http://dx.doi.org/10.1145/1250734.1250746)
 	* [PIN-PLDI05] Chi-Keung Luk, Robert Cohn, Robert Muth, Harish Patil, Artur Klauser, Geoff Lowney, Steven Wallace, Vijay Janapa Reddi, and Kim Hazelwood. Pin: building customized program analysis tools with dynamic instrumentation. PLDI 2005 [[PDF]](http://www.cs.virginia.edu/kim/courses/cs851/papers/luk05pin.pdf) [[DOI]](http://dx.doi.org/10.1145/1064978.1065034)
 
-* **Model checking**
+<!--* **Model checking**
 
 * **LLVM (IR, transformations)**
 
-* **Analysis of Big Data Systems**
+* **Analysis of Big Data Systems**-->
 
