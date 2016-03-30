@@ -3,7 +3,7 @@ layout: default
 description: Serie di seminari su program analysis
 ---
 
-## Calendiario seminari
+## Calendario seminari
 
 | Data           | Orario        | Luogo | Speaker      | Titolo             | Slide |
 | -------------- | ------------- | ----- | ------------ | ------------------ | ----- |
