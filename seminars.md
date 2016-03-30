@@ -24,7 +24,7 @@ The Excellence Program of the B.Sc. and M.Sc. in Engineering in Computer Science
 * **Malware Analysis**:
 	* [PMAL] Michael Sikorski and Andrew Honig. Practical Malware Analysis: the Hands-On Guide to Dissecting Malicious Software. [[PDF]](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
 	* Seminar slides [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk)
-	* Firmalice [[Software]](https://github.com/angr/angr)
+	* [ANGR-NDSS15] Y. Shoshitaishvili, R. Wang, C. Hauser, C. Kruegel, G. Vigna. Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmwire. NDSS 2015. [[PDF]](https://www.lastline.com/papers/2015_ndss15_firmalice-2.pdf)  [[Software]](https://github.com/angr/angr)
 
 * **Program Analysis**:
 	* [PPA] Flemming Nielson, Hanne R. Nielson, and Chris Hankin. Principles of Program Analysis. Springer. [[DOI]](http://link.springer.com/book/10.1007%2F978-3-662-03811-6)
