@@ -13,7 +13,7 @@ The Excellence Program of the B.Sc. and M.Sc. in Engineering in Computer Science
 | -------------- | ------------- | ----- | ------------ | ------------------ | ----- |
 | March 7 2016   | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
 | April 4 2016  | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
-| April 12 2016 | 14.30 - 16.00 | B203  | Emilio Coppa | Symbolic Execution | -- |
+| April 12 2016 | TBA | B203  | Emilio Coppa | Symbolic Execution | -- |
 
 <br />
 
@@ -35,7 +35,6 @@ The Excellence Program of the B.Sc. and M.Sc. in Engineering in Computer Science
 
 * **Buffer Overflow**:
 	* Brian Hackett, Manuvir Das, Daniel Wang, and Zhe Yang. Modular checking for buffer overflows in the large. ICSE 2006. [[PDF]](http://research.microsoft.com/pubs/70226/tr-2005-139.pdf) [[DOI]](http://dx.doi.org/10.1145/1134285.1134319)
-
 <!-- * **Abstract interpretation** -->
 * **Data Flow Analysis**:
 	* Chapter 2 of [PPA]
