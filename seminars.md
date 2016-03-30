@@ -24,19 +24,19 @@ The Excellence Program of the B.Sc. and M.Sc. in Engineering in Computer Science
 * **Malware Analysis**:
 	* [PMAL] Michael Sikorski and Andrew Honig. Practical Malware Analysis: the Hands-On Guide to Dissecting Malicious Software. [[PDF]](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
 	* Seminar slides [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk)
+	* Firmalice [[Software]](https://github.com/angr/angr)
 
 * **Program Analysis**:
 	* [PPA] Flemming Nielson, Hanne R. Nielson, and Chris Hankin. Principles of Program Analysis. Springer. [[DOI]](http://link.springer.com/book/10.1007%2F978-3-662-03811-6)
 
 * **Symbolic Execution**:
-	* [KLEE-OSDI08] Cristian Cadar, Daniel Dunbar, and Dawson Engler. KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs. OSDI 2008. [[PDF]](http://hci.stanford.edu/cstr/reports/2008-03.pdf) [[DOI]](http://dl.acm.org/citation.cfm?id=1855741.1855756)
+	* [KLEE-OSDI08] Cristian Cadar, Daniel Dunbar, and Dawson Engler. KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs. OSDI 2008. [[PDF]](http://hci.stanford.edu/cstr/reports/2008-03.pdf) [[DOI]](http://dl.acm.org/citation.cfm?id=1855741.1855756) [[Software]](https://klee.github.io/)
 	* Edward J. Schwartz, Thanassis Avgerinos, and David Brumley. All You Ever Wanted to Know about Dynamic Taint Analysis and Forward Symbolic Execution (but Might Have Been Afraid to Ask). IEEE SP 2010.[[PDF]](https://users.ece.cmu.edu/~ejschwar/papers/oakland10.pdf) [[DOI]](http://dx.doi.org/10.1109/SP.2010.26)
 
 * **Buffer Overflow**:
 	* Brian Hackett, Manuvir Das, Daniel Wang, and Zhe Yang. Modular checking for buffer overflows in the large. ICSE 2006. [[PDF]](http://research.microsoft.com/pubs/70226/tr-2005-139.pdf) [[DOI]](http://dx.doi.org/10.1145/1134285.1134319)
 
 <!-- * **Abstract interpretation** -->
-
 * **Data Flow Analysis**:
 	* Chapter 2 of [PPA]
 	* Dataflow Analysis Introduction. Stanford CS243 [[PDF]](http://suif.stanford.edu/~courses/cs243/lectures/l2.pdf)
