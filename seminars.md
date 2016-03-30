@@ -1,7 +1,7 @@
 ---
 layout: default
-page.title: Excellence Program Seminars on Program Analysis
-page.description: Excellence Program Seminars on Program Analysis by Season Lab at Sapienza University of Rome
+title: Excellence Program Seminars on Program Analysis
+description: Excellence Program Seminars on Program Analysis by Season Lab at Sapienza University of Rome
 ---
 
 ## Excellence Program Seminars
