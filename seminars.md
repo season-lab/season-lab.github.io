@@ -3,23 +3,27 @@ layout: default
 description: Serie di seminari su program analysis
 ---
 
-## Calendario seminari
+## Excellence Program Seminars
 
-| Data           | Orario        | Luogo | Speaker      | Titolo             | Slide |
+The Excellence Program of the B.Sc. and M.Sc. in Engineering in Computer Science of Sapienza University of Rome offers its students a personalized academic study program designed to exploit their curiosity and creativity, enabling them to deepen and broaden their knowledge in a range of knowledge areas. Our group organizes a series of informal seminars in the context of the Excellence Programe devoted to topics in program analysis with applications to computer security, performance, and reliability.
+
+## Calendar
+
+| Date           | Time          | Venue | Speaker      | Title             | Slide |
 | -------------- | ------------- | ----- | ------------ | ------------------ | ----- |
-| 7 Marzo 2016   | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
-| 4 Aprile 2016  | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
-| 12 Aprile 2016 | 14.30 - 16.00 | B203  | Emilio Coppa | Symbolic Execution | -- |
+| March 7 2016   | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
+| April 4 2016  | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
+| April 12 2016 | 14.30 - 16.00 | B203  | Emilio Coppa | Symbolic Execution | -- |
 
 <br />
 
-## Materiale
+## Material
 
-Le risorse elencate, ove non disponibili, possono essere richieste via mail al gruppo.
+<!--Le risorse elencate, ove non disponibili, possono essere richieste via mail al gruppo.-->
 
 * **Malware Analysis**:
 	* [PMAL] Michael Sikorski and Andrew Honig. Practical Malware Analysis: the Hands-On Guide to Dissecting Malicious Software. [[PDF]](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
-	* Slide seminario [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk)
+	* Seminar slides [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk)
 
 * **Program Analysis**:
 	* [PPA] Flemming Nielson, Hanne R. Nielson, and Chris Hankin. Principles of Program Analysis. Springer. [[DOI]](http://link.springer.com/book/10.1007%2F978-3-662-03811-6)
