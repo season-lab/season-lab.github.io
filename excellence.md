@@ -38,7 +38,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 	* [ANGR-NDSS15] Y. Shoshitaishvili, R. Wang, C. Hauser, C. Kruegel, G. Vigna. Firmalice - Automatic Detection of Authentication Bypass Vulnerabilities in Binary Firmware. NDSS 2015. [[PDF]](https://www.lastline.com/papers/2015_ndss15_firmalice-2.pdf)  [[Software]](https://github.com/angr/angr)
 
 * **Program Analysis**:
-	* [PPA] Flemming Nielson, Hanne R. Nielson, and Chris Hankin. Principles of Program Analysis. Springer. [[DOI]](http://link.springer.com/book/10.1007%2F978-3-662-03811-6)
+	* [PPA] Flemming Nielson, Hanne R. Nielson, and Chris Hankin. Principles of Program Analysis. Springer, 1999. [[DOI]](http://link.springer.com/book/10.1007%2F978-3-662-03811-6)
 
 * **Symbolic Execution**:
 	* [KLEE-OSDI08] Cristian Cadar, Daniel Dunbar, and Dawson Engler. KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs. OSDI 2008. [[PDF]](http://hci.stanford.edu/cstr/reports/2008-03.pdf) [[DOI]](http://dl.acm.org/citation.cfm?id=1855741.1855756) [[Software]](https://klee.github.io/)
