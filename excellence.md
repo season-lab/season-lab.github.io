@@ -69,6 +69,9 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 	* [VALGRIND-PLDI07] Nicholas Nethercote and Julian Seward. Valgrind: a framework for heavyweight dynamic binary instrumentation. PLDI 2007. [[PDF]](http://valgrind.org/docs/valgrind2007.pdf) [[DOI]](http://dx.doi.org/10.1145/1250734.1250746)
 	* [PIN-PLDI05] Chi-Keung Luk, Robert Cohn, Robert Muth, Harish Patil, Artur Klauser, Geoff Lowney, Steven Wallace, Vijay Janapa Reddi, and Kim Hazelwood. Pin: building customized program analysis tools with dynamic instrumentation. PLDI 2005 [[PDF]](http://www.cs.virginia.edu/kim/courses/cs851/papers/luk05pin.pdf) [[DOI]](http://dx.doi.org/10.1145/1064978.1065034)
 
+* **Value Set Analysis (VSA)**:
+	* [WYSINWYX-TOPLAS10] Gogul Balakrishnan and Thomas Reps. WYSINWYX: What You See is Not What You eXecute. TOPLAS 2010.  [[PDF]](http://research.cs.wisc.edu/wpis/papers/wysinwyx.final.pdf) [[DOI]](http://dx.doi.org/10.1145/1749608.1749612)
+
 <!--* **Model checking**
 
 * **LLVM (IR, transformations)**
