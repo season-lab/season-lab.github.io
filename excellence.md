@@ -24,7 +24,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 | -------------- | ------------- | ----- | ------------ | ------------------ | ----- |
 | March 7 2016   | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
 | April 4 2016  | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
-| April 12 2016 | 14:00 - 15:30 | B203  | Emilio Coppa | Symbolic Execution | -- |
+| April 12 2016 | 14:00 - 15:30 | B203  | Emilio Coppa | Symbolic Execution | [[PDF]](https://drive.google.com/open?id=0BzPEdOad795XOGIzWWVKeTlwQlk) |
 | April 28 2016 | 11:00 - 12:30 | B203  | Camil Demetrescu | Operational Semantics (part I) | -- |
 | May 5 2016 | 11:00 - 12:30 | B203  | Camil Demetrescu | Operational Semantics (part II) | -- |
 
