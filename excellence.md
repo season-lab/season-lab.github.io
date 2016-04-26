@@ -29,7 +29,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 | May 5 2016 | 11:00 - 12:30 | A3  | Camil Demetrescu | Operational Semantics (part II) | -- |
 
 <br />
-
+ 
 ## Material
 
 <!--Le risorse elencate, ove non disponibili, possono essere richieste via mail al gruppo.-->
