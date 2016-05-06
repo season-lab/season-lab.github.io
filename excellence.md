@@ -16,7 +16,6 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 | :-------------: | :----------------: | :---------------------: | :-----------------: |
 | Pietro Borrello | Luca Borzacchiello | Leonardo Di Paolantonio | Andrea Mastropietro |
 | ![alt text](assets/img/students/miele.png "Eric Stefan Miele") | ![alt text](assets/img/generic.jpg "Andrea Moscatelli") | ![alt text](assets/img/students/spallaccini.png "Davide Spallaccini") | |
-| :---------------: | :----------------: |:----------------: | |
 | Eric Stefan Miele | Andrea Moscatelli | Davide Spallaccini | |
 
 <br />
