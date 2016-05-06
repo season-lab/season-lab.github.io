@@ -12,7 +12,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 
 2015-2016:
 
-| ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/students/dipaolantonio.png "Leonardo Di Paolantonio") | ![alt text](assets/img/students/mastropietro.png "Andrea Mastropietro") | ![alt text](assets/img/students/miele.png "Eric Stefan Miele") | ![alt text](assets/img/students/person.png "Andrea Moscatelli") | ![alt text](assets/img/students/spallaccini.png "Davide Spallaccini") |
+| ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/students/dipaolantonio.png "Leonardo Di Paolantonio") | ![alt text](assets/img/students/mastropietro.png "Andrea Mastropietro") | ![alt text](assets/img/students/miele.png "Eric Stefan Miele") | ![alt text](assets/img/students/generic.jpg "Andrea Moscatelli") | ![alt text](assets/img/students/spallaccini.png "Davide Spallaccini") |
 | :-------------: | :----------------: | :---------------------: | :-----------------: | :---------------: | :----------------: |:----------------: |
 | Pietro Borrello | Luca Borzacchiello | Leonardo Di Paolantonio | Andrea Mastropietro | Eric Stefan Miele | Andrea Moscatelli | Davide Spallaccini |
 
