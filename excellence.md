@@ -24,13 +24,13 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 
 | Date           | Time          | Venue | Speaker      | Title             | Slide |
 | -------------- | ------------- | ----- | ------------ | ------------------ | ----- |
-| March 7, 2016   | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
-| April 4, 2016  | 9.30 - 11.00  | B203  | Emilio Coppa | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
-| April 12, 2016 | 14:00 - 15:30 | B203  | Emilio Coppa | Symbolic Execution | [[PDF]](https://drive.google.com/open?id=0BzPEdOad795XOGIzWWVKeTlwQlk) |
-| April 28, 2016 | 10:30 - 12:00 | A3  | Camil Demetrescu | Operational Semantics (part I) | -- |
-| May 5, 2016 | 11:00 - 12:30 | B203  | Camil Demetrescu | Operational Semantics (part II) | -- |
+| March 7, 2016   | 9.30 - 11.00  | B203  | <a href="http://ecoppa.github.io/">Emilio Coppa</a> | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
+| April 4, 2016  | 9.30 - 11.00  | B203  | <a href="http://ecoppa.github.io/">Emilio Coppa</a> | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
+| April 12, 2016 | 14:00 - 15:30 | B203  | <a href="http://ecoppa.github.io/">Emilio Coppa</a> | Symbolic Execution | [[PDF]](https://drive.google.com/open?id=0BzPEdOad795XOGIzWWVKeTlwQlk) |
+| April 28, 2016 | 10:30 - 12:00 | A3  | <a href="http://www.dis.uniroma1.it/~demetres">Camil Demetrescu</a> | Operational Semantics (part I) | -- |
+| May 5, 2016 | 11:00 - 12:30 | B203  | <a href="http://www.dis.uniroma1.it/~demetres">Camil Demetrescu</a> | Operational Semantics (part II) | -- |
 | May 19, 2016 | 12:00 - 12:55 | Aula Magna  | <a href="http://engineering.nyu.edu/people/brendan-dolan-gavitt">Brendan Dolan-Gavitt</a> | LAVA: Large-scale Automated Vulnerability Addition | -- |
-| May 26, 2016 | 11:00 - 12:30 | B203  | Irene Finocchi | Big-Data Programming in MapReduce | -- |
+| May 26, 2016 | 11:00 - 12:30 | B203  | <a href="http://wwwusers.di.uniroma1.it/~finocchi">Irene Finocchi</a> | Big-Data Programming in MapReduce | -- |
 
 <br />
  
