@@ -39,7 +39,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 <!--Le risorse elencate, ove non disponibili, possono essere richieste via mail al gruppo.-->
 
 * **Big Data Systems**:
-        * [MAPREDUCE] J. Dean & S. Ghemawat. MapReduce: simplified data processing on large clusters. Communications of the ACM, 51(1), 2008.
+	* [MAPREDUCE] J. Dean & S. Ghemawat. MapReduce: simplified data processing on large clusters. Communications of the ACM, 51(1), 2008.
         * [HADOOP] Tom White. Hadoop: The Definitive Guide - Storage and Analysis at Internet Scale (4th Edition). O'Reilly Media, March 2015, pp. 756 
 
 * **Malware Analysis**:
