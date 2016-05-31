@@ -30,7 +30,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 | April 28, 2016 | 10:30 - 12:00 | A3  | <a href="http://www.dis.uniroma1.it/~demetres">Camil Demetrescu</a> | Operational Semantics (part I) | -- |
 | May 5, 2016 | 11:00 - 12:30 | B203  | <a href="http://www.dis.uniroma1.it/~demetres">Camil Demetrescu</a> | Operational Semantics (part II) | -- |
 | May 19, 2016 | 12:00 - 12:55 | Aula Magna  | <a href="http://engineering.nyu.edu/people/brendan-dolan-gavitt">Brendan Dolan-Gavitt</a> | LAVA: Large-scale Automated Vulnerability Addition | [[PDF]](https://drive.google.com/file/d/0BzPEdOad795XeEFyWlprUEdWWUU/view?usp=sharing) |
-| May 26, 2016 | 11:00 - 12:30 | B203  | <a href="http://wwwusers.di.uniroma1.it/~finocchi">Irene Finocchi</a> | Big-Data Programming in MapReduce | -- |
+| May 26, 2016 | 11:00 - 12:30 | B203  | <a href="http://wwwusers.di.uniroma1.it/~finocchi">Irene Finocchi</a> | Big-Data Programming in MapReduce | [[PDF]](https://drive.google.com/file/d/0B1yYvm6QgJReR2FnLV94RmxfYzg/view?usp=sharing) |
 
 <br />
  
