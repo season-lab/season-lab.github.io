@@ -38,6 +38,10 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 
 <!--Le risorse elencate, ove non disponibili, possono essere richieste via mail al gruppo.-->
 
+* **Big Data Systems**:
+        * [MAPREDUCE] J. Dean & S. Ghemawat. MapReduce: simplified data processing on large clusters. Communications of the ACM, 51(1), 2008.
+        * [HADOOP] Tom White. Hadoop: The Definitive Guide - Storage and Analysis at Internet Scale (4th Edition). O'Reilly Media, March 2015, pp. 756 
+
 * **Malware Analysis**:
 	* [PMAL] Michael Sikorski and Andrew Honig. Practical Malware Analysis: the Hands-On Guide to Dissecting Malicious Software. 2012. [[PDF]](http://venom630.free.fr/pdf/Practical_Malware_Analysis.pdf)
 	* Seminar slides [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk)
