@@ -32,7 +32,7 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 
 | Date           | Time          | Venue | Speaker      | Title             | Slide |
 | -------------- | ------------- | ----- | ------------ | ------------------ | ----- |
-| September 18, 2017   | 14.30 - 15.30  | A6  | Leonardo Di Paolantonio> | Return-oriented Programming   |  |
+| September 18, 2017   | 14.30 - 15.30  | A6  | Leonardo Di Paolantonio | Return-oriented Programming   |  |
 | March 7, 2016   | 9.30 - 11.00  | B203  | <a href="http://ecoppa.github.io/">Emilio Coppa</a> | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
 | April 4, 2016  | 9.30 - 11.00  | B203  | <a href="http://ecoppa.github.io/">Emilio Coppa</a> | Malware Analysis   | [[PDF]](https://drive.google.com/open?id=0Bw8evy6grTplSHVpUEE3dDFUOFk) |
 | April 12, 2016 | 14:00 - 15:30 | B203  | <a href="http://ecoppa.github.io/">Emilio Coppa</a> | Symbolic Execution | [[PDF]](https://drive.google.com/open?id=0BzPEdOad795XOGIzWWVKeTlwQlk) |
