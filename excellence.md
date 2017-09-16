@@ -10,6 +10,14 @@ The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineeri
 
 ## Students
 
+2016-2017:
+
+| ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/students/generic.png "Mattia Nicolella") | ![alt text](assets/img/students/generic.png "Pietro Spadaccino") | ![alt text](assets/img/students/generic.png "Andrea Tulimiero") |
+| :-------------: | :----------------: | :---------------------: | :-----------------: | :-----------------: |
+| Pietro Borrello | Luca Borzacchiello | Mattia Nicolella | Pietro Spadaccino | Andrea Tulimiero |
+
+<br />
+
 2015-2016:
 
 | ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/students/dipaolantonio.png "Leonardo Di Paolantonio") | ![alt text](assets/img/students/mastropietro.png "Andrea Mastropietro") |
