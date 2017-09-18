@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Excellence Program Seminars on Program Analysis
-description: Excellence Program Seminars on Program Analysis by Season Lab at Sapienza University of Rome
+title: Honors Program Seminars on Program Analysis
+description: Honors Program Seminars on Program Analysis by Season Lab at Sapienza University of Rome
 ---
 
-## Excellence Program
+## Honors Program
 
-The Excellence Programs of the B.Sc. and M.Sc. in Computer Science and Engineering in Computer Science of Sapienza University of Rome offer their students personalized activities designed to exploit their curiosity and creativity, enabling them to deepen and broaden their knowledge in a range of areas in computing. Our group involves outstanding students in research activities and organizes a series of informal seminars devoted to cool topics in program analysis with applications to computer security, performance, and reliability.
+The Honors Programs of the B.Sc. and M.Sc. in Computer Science and Engineering in Computer Science of Sapienza University of Rome offer their students personalized activities designed to exploit their curiosity and creativity, enabling them to deepen and broaden their knowledge in a range of areas in computing. Our group involves outstanding students in research activities and organizes a series of informal seminars devoted to cool topics in program analysis with applications to computer security, performance, and reliability.
 
 ## Students
 
