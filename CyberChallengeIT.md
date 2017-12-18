@@ -20,8 +20,8 @@ If you are young, have good programming knowledge, and want to further improve y
 
 ### Information for enrollment
 
-* Registrations for online test are now open! (**Deadline: January 20, 2018**) <br/>
+* Registrations for online test are now open! (**Deadline: January 20, 2018**) <br/><br/>
 Click **[here](https://cyberchallenge.it/register)** to register now!
 * Admission test:
 	* Place: aule 15 e 16, [Laboratorio Paolo Ercoli](http://tiburlab.dis.uniroma1.it), via Tiburtina 205, 00185 Roma
-	* Date: From 08:30 to 13:30 on February 1, 2018
+	* Date: from 08:30 to 13:30 on February 1, 2018
