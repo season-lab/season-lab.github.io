@@ -4,7 +4,7 @@ title: CyberChallenge.IT - Cybersecurity training
 description: CyberChallenge.IT - Cybersecurity training
 ---
 
-<div style="text-align: center;"><img src="assets/img/cyberchallengeit.png" alt="Drawing" style="width: 240px;" alt="CyberChallenge.IT"/></div><br/>
+<div style="text-align: center;"><img src="assets/img/cyberchallengeit.png" alt="Drawing" style="width: 240px;" alt="CyberChallenge.IT"/></div>
 
 ## CyberChallenge.IT
 
