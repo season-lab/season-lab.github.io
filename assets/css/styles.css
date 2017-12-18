@@ -242,6 +242,10 @@ Single styles
 Wide styles
 ------------------------*/
 
+@media (min-width: 810px) {
+	.header-text { padding-top: 20px;}
+}
+
 @media (min-width: 62em)
 {
 	.header { padding: 1.5em 3em; }
