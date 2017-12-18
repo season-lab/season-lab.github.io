@@ -6,7 +6,7 @@ description: CyberChallenge.IT - Cybersecurity training
 
 ## CyberChallenge.IT
 
-<div style="text-align: center;"><img src="assets/img/cyberchallengeit.png" alt="Drawing" style="width: 200px;" alt="CyberChallenge.IT"/></div>
+<div style="text-align: center;"><img src="assets/img/cyberchallengeit.png" alt="Drawing" style="width: 200px;" alt="CyberChallenge.IT"/></div><br/>
 
 SEASON Lab is organizing the CyberChallenge.IT at Sapienza University of Rome! This is a program aimed at training in cybersecurity the best Italian students that are between 16 and 22 years old. CyberChallenge.IT is a program sponsored by the CINI Cybersecurity National Lab in collaboration with the National Cybersecurity Research Committee. 
 
@@ -20,7 +20,7 @@ If you are young, have good programming knowledge, and want to further improve y
 
 ### Information for enrollment
 
-* Registrations for online test are now open! (*Deadline: January 20, 2018*) <br/>
+* Registrations for online test are now open! (**Deadline: January 20, 2018**) <br/>
 Click **[here](https://cyberchallenge.it/register)** to register now!
 * Admission test:
 	* Place: aule 15 e 16, [Laboratorio Paolo Ercoli](http://tiburlab.dis.uniroma1.it), via Tiburtina 205, 00185 Roma
