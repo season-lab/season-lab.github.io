@@ -20,7 +20,7 @@ The Honors Programs of the B.Sc. and M.Sc. in Computer Science and Engineering i
 
 2016-2017:
 
-| ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/generic.jpg "Mattia Nicolella") | ![alt text](assets/img/students/spadaccino.png "Pietro Spadaccino") | ![alt text](assets/img/students/tulimiero.png "Andrea Tulimiero") |
+| ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/generic.jpg "Mattia Nicolella") | ![alt text](assets/img/spadaccino.png "Pietro Spadaccino") | ![alt text](assets/img/tulimiero.png "Andrea Tulimiero") |
 | :-------------: | :----------------: | :---------------------: | :-----------------: | :-----------------: |
 | Pietro Borrello | Luca Borzacchiello | Mattia Nicolella | Pietro Spadaccino | Andrea Tulimiero |
 
