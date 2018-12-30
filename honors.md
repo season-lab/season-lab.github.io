@@ -14,7 +14,7 @@ The Honors Programs of the B.Sc. and M.Sc. in Computer Science and Engineering i
 
 | ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/generic.jpg "Federico Palmarini") | ![alt text](assets/img/generic.jpg "Andrea Salvati") | ![alt text](assets/img/generic.jpg "Cristian Assaiante") |
 | :-------------: | :----------------: | :---------------------: | :-----------------: | :-----------------: |
-| Pietro Borrello | Luca Borzacchiello | Federico Palmarini | Andrea Salvati | Cristian Assaiante |
+| Pietro Borrello | Luca Borzacchiello | Federico Palmaro | Andrea Salvati | Cristian Assaiante |
 
 <br />
 
