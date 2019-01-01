@@ -11,7 +11,6 @@ var app = new Vue({
     fetchFromJson: function (jsonPath, vue, v) {
         $.get(jsonPath, function(json) {
             vue[v] = json.data;
-            console.log(vue[v]);
         })
     }
   },
