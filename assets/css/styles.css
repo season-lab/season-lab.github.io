@@ -292,7 +292,7 @@ Wide styles
 .profile-block {
 	padding-bottom: 10px;
 	margin: auto;
-	width: 50%;
+	width: 100%;
 	text-align: center;
 }
 
@@ -324,6 +324,7 @@ Wide styles
 	.profile-block { 
 		display: inline-block;
 		text-align: left;
+		width: 50%;
 	}
 	.profile-desc {
 		padding-left: 15px;
