@@ -2,7 +2,7 @@
 layout: default
 title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza University of Rome
 ---
-
+{% raw %}
           <p>
           Welcome to the SoftwarE AnalysiS and OptimizatioN (aka SEASON) Laboratory at Sapienza University of Rome.
           </p>
@@ -10,83 +10,23 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
           <h2 id="team">Team</h2>
           <hr>
 
-          <div class="profile">
+          <div class="profiles">
 
-            <div class="profile-photo">
-              <img src="assets/img/demetrescu.png" class="profile-photo-img" alt="camil demetrescu">
-            </div>
+            <div class="profile-block" v-for="t in team">
+                
+                <div class="profile-photo">
+                  <img :src="t.img" class="profile-photo-img" :alt="t.name">
+                </div>
 
-            <div class="profile-desc">
-              <h3>Camil Demetrescu</h3>
-              demetres [at] diag.uniroma1.it<br/>
-              Full Professor at DIAG <br/>
-              Sapienza University of Rome<br/>
-              <a href="http://www.dis.uniroma1.it/~demetres/">[website]</a> <a href="http://dblp.uni-trier.de/pers/hd/d/Demetrescu:Camil">[dblp]</a>
-              <br/>
-              <br/>
-            </div>
-
-            <div class="profile-photo profile-second-row">
-              <img src="assets/img/finocchi.png" class="profile-photo-img" alt="irene finocchi">
-            </div>
-
-            <div class="profile-desc">
-              <h3>Irene Finocchi</h3>
-              finocchi [at] di.uniroma1.it<br/>
-              Associate Professor at DI <br/>
-              Sapienza University of Rome<br/>
-              <a href="http://wwwusers.di.uniroma1.it/~finocchi/">[website]</a> <a href="http://dblp.uni-trier.de/pers/hd/f/Finocchi:Irene">[dblp]</a>
-              <br/>
-              <br/>
-            </div>
-
-          </div>
-
-          <div class="profile">
-
-            <div class="profile-photo">
-              <img src="assets/img/delia.png" class="profile-photo-img" alt="daniele d elia">
-            </div>
-
-            <div class="profile-desc">
-              <h3>Daniele Cono D'Elia</h3>
-              delia [at] diag.uniroma1.it<br/>
-              PhD and PostDoc at DIAG <br/>
-              Sapienza University of Rome<br/>
-              <a href="http://www.dis.uniroma1.it/~delia/">[website]</a> <a href="http://dblp.uni-trier.de/pers/hd/d/D=Elia:Daniele_Cono">[dblp]</a>
-              <br/>
-              <br/>
-            </div>
-
-            <div class="profile-photo profile-second-row">
-              <img src="assets/img/coppa.png" class="profile-photo-img" alt="emilio coppa">
-            </div>
-
-            <div class="profile-desc">
-              <h3>Emilio Coppa</h3>
-              coppa [at] diag.uniroma1.it<br/>
-              PhD at DI, PostDoc at DIAG <br/>
-              Sapienza University of Rome<br/>
-              <a href="http://ecoppa.github.io">[website]</a> <a href="http://dblp.uni-trier.de/pers/hd/c/Coppa:Emilio">[dblp]</a>
-              <br/>
-              <br/>
-            </div>
-
-          </div>
-
-          <div class="profile">
-
-            <div class="profile-photo">
-              <img src="assets/img/renan.jpg" class="profile-photo-img" alt="renan leon garcia">
-            </div>
-
-            <div class="profile-desc">
-              <h3>Renan Leon Garcia</h3>
-              garcia [at] di.uniroma1.it<br/>
-              PhD at DI<br/>
-              Sapienza University of Rome<br/>
-              <br/>
-              <br/>
+                <div class="profile-desc">
+                  <h3>{{ t.name }}</h3>
+                  {{ t.email }}<br/>
+                  {{ t.role }}<br/>
+                  {{ t.affiliation }}<br/>
+                  <a v-if="t.url" :href="t.url">[website]</a>
+                  <a v-if="t.dblp" :href="t.dblp">[dblp]</a>
+                  <br/><br/>
+                </div>
             </div>
 
           </div>
@@ -95,8 +35,8 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
 
           <b>Former students</b>:
           <ul>
-                    <li>Bruno Aleandri (M.Sc.), Valerio Bellizia (M.Sc.), Raffaele Di Fazio (M.Sc.),
-                    Luca Di Maio (M.Sc.), Marco Finocchi (M.Sc.), Emanuele Fusco (post-doc), Alessandro Macchioni (M.Sc.), Romolo Marotta (B.Sc.)</li>
+                <li>Bruno Aleandri (M.Sc.), Valerio Bellizia (M.Sc.), Raffaele Di Fazio (M.Sc.),
+                Luca Di Maio (M.Sc.), Marco Finocchi (M.Sc.), Emanuele Fusco (post-doc), Alessandro Macchioni (M.Sc.), Romolo Marotta (B.Sc.), Fabio Rosato (M.Sc.), Andrea Fioraldi (B.Sc.), Andrea Prosseda (M.Sc.), Federico Palmaro (M.Sc.)</li>
           </ul>
 
           <br/><br/>
@@ -150,89 +90,20 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
           Our latest publications:
           <ul class="pub">
 
-  <li id="BC-SAC19">[BC-SAC19] Pietro Borrello, Emilio Coppa, Daniele Cono D'Elia, Camil Demetrescu. The ROP Needle: Hiding Trigger-based Injection Vectors via Code Reuse. 34th ACM/SIGAPP Symposium On Applied Computing (<b>SAC 2019</b>), 2019.
-  </li>
-
-  <li id="AB-VIZSEC18">[AB-VIZSEC18] Marco Angelini, Graziano Blasilli, Pietro Borrello, Emilio Coppa, Daniele Cono D'Elia, Serena Ferracci, Simone Lenti, Giuseppe Santucci. ROPMate: Visually Assisting the Creation of ROP-based Exploits. <b>Best Paper Award</b> at the 15th IEEE Symposium on Visualization for Cyber Security (<b>VizSec 2018</b>), 2018.
-  </li>
-
-	<li id="DD-PLDI18">[DD-PLDI18] Daniele Cono D'Elia and Camil Demetrescu. On-Stack Replacement, Distilled. 
-		39th ACM SIGPLAN Conference on Programming Language Design and Implementation (<b>PLDI 2018</b>), 2018.
-		  <a href="http://season-lab.github.io/papers/osr-distilled-pldi18.pdf" target="_blank">[PDF]</a></li>
-
-	<li id="BCDDF-CSUR18">[BCDDF-CSUR18] Roberto Baldoni, Emilio Coppa, Daniele Cono D'Elia, Camil Demetrescu, Irene Finocchi. 
-		A Survey of Symbolic Execution Techniques. ACM Computing Surveys (<b>ACM CSUR</b>), 51(3), 2018.
-	<a href="http://season-lab.github.io/papers/survey-symbolic-execution-preprint-CSUR18.pdf" target="_blank">[PDF]</a>
-		  </li>  
-
-            <li id="CDD-ASE17">[CDD-ASE7] Emilio Coppa, Daniele Cono D'Elia, Camil Demetrescu. 
-		    Rethinking Pointer Reasoning in Symbolic Execution. 
-		    32nd IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2017</b>). 
-		    <a href="http://season-lab.github.io/papers/memsight-ase17.pdf" target="_blank">[PDF]</a></li>
-
- 	<li id="BCDDF-CSCML17">[BCDD-CSCML17] Roberto Baldoni, Emilio Coppa, Daniele Cono D’Elia, Camil Demetrescu. 
-		Assisting Malware Analysis with Symbolic Execution: a Case Study. 
-		2017 International Symposium on Cyber Security Cryptography and Machine Learning (CSCML 2017). 
-		<a href="http://dx.doi.org/10.1007/978-3-319-60080-2_12" target="_blank">[DOI]</a> 
-		<a href="https://drive.google.com/file/d/0BzPEdOad795XM3M4aGh0SXFfRzg/view?usp=sharing" target="_blank">[PDF]</a></li>
-                    
-            <li id="DD-CGO16">[DD-CGO16] Daniele Cono D'Elia and Camil Demetrescu. 
-		    Flexible On-Stack Replacement in LLVM. 
-		    2016 International Symposium on Code Generation and Optimization (<b>CGO 2016</b>), 2016.</li>
-
-            <li id="DDF-SPE15">[DDF-SPE15] Daniele Cono D'Elia, Camil Demetrescu, and Irene Finocchi. 
-		    Mining Hot Calling Contexts in Small Space. 
-		    Software: Practice and Experience, John Wiley & sons, 2015.</li>
-
-            <li id="FFF-JEA15">[FFF-JEA15] Irene Finocchi, Marco Finocchi, and Emanuele G. Fusco. 
-		    Clique counting in MapReduce: Algorithms and experiments. 
-		    ACM Journal of Experimental Algorithmics (<b>ACM JEA</b>), 2015. <a href="http://dx.doi.org/10.1145/2794080" target="_blank">[DOI]</a> </li>
-
-            <li id="CF-SOCC15">[CF-SOCC15] Emilio Coppa and Irene Finocchi. 
-		    On data skewness, stragglers, and MapReduce progress indicators. 
-		    6th ACM Symposium on Cloud Computing (<b>SoCC'15</b>), pp 139-152, 2015. 
-		    <a href="http://dx.doi.org/10.1145/2806777.2806843" target="_blank">[DOI]</a> 
-		    <a href="https://drive.google.com/file/d/0BzPEdOad795XbjljX0lLLVlxQUE/view?usp=sharing" target="_blank">[PDF]</a> 
-		    <a href="https://drive.google.com/file/d/0BzPEdOad795XWlA4VlVCUWd5d1E/view?usp=sharing" target="_blank">[SLIDES]</a></li>
-
-            <li>[DFR-TOPLAS14] Camil Demetrescu, Irene Finocchi, and Andrea Ribichini. 
-		    Reactive Imperative Programming with Dataflow Constraints. 
-		    ACM Transactions on Programming Languages and Systems (<b>ACM TOPLAS</b>), 37(1), pp 1-53, 2014.</li>
-
-            <li id="C-VAL14">[C-VAL14] Emilio Coppa. An interactive visualization framework for performance analysis. 
-		    8th International Conference on Performance Evaluation Methodologies and Tools (<b>VALUETOOLS 2014</b>), 
-		    pp 159-164, 2014. <a href="http://dx.doi.org/10.4108/icst.valuetools.2014.258172" target="_blank">[DOI]</a> 
-		    <a href="https://drive.google.com/file/d/0BzPEdOad795XM3M4aGh0SXFfRzg/view?usp=sharing">[PDF]</a> <a href="https://drive.google.com/file/d/0BzPEdOad795XRkZNd3FNYU02VzA/view?usp=sharing">[SLIDES]</a> <a href="https://github.com/ercoppa/aprof/wiki" target="_blank">[PROJECT SITE]</a></li>
-
-            <li id="CDF-TSE14">[CDF-TSE14] Emilio Coppa, Camil Demetrescu, and Irene Finocchi. 
-		    Input-Sensitive Profiling. IEEE Transactions on Software Engineering (<b>IEEE TSE'14</b>), 40(12), pp 1185-1205, 2014.
-		    <a href="http://dx.doi.org/10.1109/tse.2014.2339825" target="_blank">[DOI]</a> <a href="https://drive.google.com/file/d/0BzPEdOad795XaHJiMG9TUkVNT2M/view?usp=sharing">[PDF]</a> <a href="https://github.com/ercoppa/aprof/wiki" target="_blank">[PROJECT SITE]</a></li>
-
-            <li id="CDFM-CGO14">[CDFM-CGO14] Emilio Coppa, Camil Demetrescu, Irene Finocchi, and Romolo Marotta. 
-		    Estimating the Empirical Cost Function of Routines with Dynamic Workloads. 
-		    12th IEEE/ACM International Symposium on Code Generation and Optimization (<b>CGO 2014</b>), pp 230-239, 2014. 
-		    <a href="http://dl.acm.org/citation.cfm?doid=2581122.2544143" target="_blank">[DOI]</a> <a href="https://drive.google.com/file/d/0BzPEdOad795XSWY5anVOdlQwbTQ/edit?usp=sharing">[PDF]</a> <a href="https://drive.google.com/file/d/0BzPEdOad795Xd1RKUE1STTdNbHc/edit?usp=sharing">[SLIDES]</a> <a href="https://github.com/ercoppa/aprof/wiki" target="_blank">[PROJECT SITE]</a></li>
-
-            <li id="DDF-OOPSLA13">[DDF-OOPSLA13] Daniele Cono D'Elia and Camil Demetrescu. 
-		    Ball-Larus Path Profiling Across Multiple Loop Iterations. 
-		    28th ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications (<b>OOPSLA'13</b>), pp 373-390, 2013.</li>
-
-            <li id="CDF-PLDI12">[CDF-PLDI12] Emilio Coppa, Camil Demetrescu, and Irene Finocchi. 
-		    Input-Sensitive Profiling. 33rd ACM SIGPLAN conference on Programming Language Design and Implementation 
-		    (<b>PLDI 2012</b>), pp 89-98, 2012.  
-		    <a href="http://dl.acm.org/citation.cfm?doid=2254064.2254076" target="_blank">[DOI]</a> 
-		    <a href="http://aprof.googlecode.com/files/pldi055-coppa.pdf">[PDF]</a> 
-		    <a href="http://aprof.googlecode.com/files/aprof-PLDI.pdf">[SLIDES]</a> 
-		    <a href="https://github.com/ercoppa/aprof/wiki" target="_blank">[PROJECT SITE]</a></li>
-
-            <li id="ADFF-OOPSLA12">[ADFF-OOPSLA12] Giorgio Ausiello, Camil Demetrescu, Irene Finocchi, and Donatella Firmani. 
-		    k-Calling context profiling. 27th ACM International Conference on Object Oriented Programming Systems Languages and Applications (<b>OOPSLA'12</b>), pp 867-878, 2012.</li>
-
-            <li id="DDF-PLDI11">[DDF-PLDI11] Daniele Cono D'Elia, Camil Demetrescu, and Irene Finocchi. 
-		    Mining Hot Calling Contexts in Small Space. 32nd ACM SIGPLAN conference on Programming Language Design and Implementation (<b>PLDI'11</b>), pp 516-527, 2011.</li>
-
-            <li id="DFR-OOPSLA11">[DFR-OOPSLA11] Camil Demetrescu, Irene Finocchi, and Andrea Ribichini. 
-		    Reactive Imperative Programming with Dataflow Constraints. 26th ACM International Conference on Object Oriented Programming Systems Languages and Applications (<b>OOPSLA'11</b>), pp 407-426, 2011.</li>
+            <li :id="p.id" v-for="p in publications">
+                [{{ p.id }}] 
+                {{ p.authors }}. 
+                {{ p.title }}. 
+                <span v-html="p.conference.replace('Best Paper Award', '<b>Best Paper Award</b>')"></span><span v-if="!p.series">,</span>
+                <span v-if="p.series">(<b>{{ p.series }}</b>),</span>
+                <span v-if="p.volume"> {{ p.volume }},</span>
+                <span v-if="p.pages"> pp {{ p.pages }},</span>
+                {{ p.year }}. 
+                <a v-if="p.doi" target="_blank" :href="p.doi">[DOI]</a>
+                <a v-if="p.pdf" target="_blank" :href="p.pdf">[PDF]</a>
+                <a v-if="p.slides" target="_blank" :href="p.slides">[SLIDES]</a>
+                <a v-if="p.project" target="_blank" :href="p.project">[PROJECT SITE]</a>
+            </li>
 
           </ul>
 
@@ -305,3 +176,5 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
             <li>University of Rome Roma Tre, IT</li>
             <li>University of Rome Tor Vergata, IT</li>
           </ul>
+
+{% endraw %}
