@@ -6,6 +6,7 @@
             "title" : "The ROP Needle: Hiding Trigger-based Injection Vectors via Code Reuse",
             "conference" : "34th ACM/SIGAPP Symposium On Applied Computing",
             "series" : "SAC 2019",
+            "pdf": "http://season-lab.github.io/papers/rop-needle-SAC19.pdf",
             "year" : "2019"
         },
         {
@@ -14,6 +15,7 @@
             "title" : "ROPMate: Visually Assisting the Creation of ROP-based Exploits",
             "conference" : "Best Paper Award at the 15th IEEE Symposium on Visualization for Cyber Security",
             "series" : "VizSec 2018",
+            "pdf": "http://season-lab.github.io/papers/ropmate-VIZSEC18.pdf",
             "year" : "2018"
         },
         {
