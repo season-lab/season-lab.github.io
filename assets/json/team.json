@@ -56,7 +56,8 @@
             "img": "assets/img/nicchi.jpg",
             "email": "nicchi [at] diag.uniroma1.it",
             "role" : "PhD at DIAG",
-            "affiliation" : "Sapienza University of Rome"
+            "affiliation" : "Sapienza University of Rome",
+            "url": "https://simuset.github.io"
         }
 
     ]
