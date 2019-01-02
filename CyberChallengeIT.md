@@ -15,6 +15,7 @@ If you are young, have good programming knowledge, and want to further improve y
 ### Local Organizers
 
  * Camil Demetrescu
+ * Leonardo Querzoni
  * Emilio Coppa
  * Daniele Cono D'Elia
 
