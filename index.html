@@ -12,6 +12,7 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
 
 <div class="profiles">
 
+  <!-- EC: per cambiere info o aggiungere persone basta editare assets/json/team.json -->
   <div class="profile-block" v-for="t in team">
 
     <div class="profile-photo">
@@ -66,7 +67,7 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
   <div style="float: left; padding-right: 40px; padding-left: 25px;">
     <img src="assets/img/nearestfit.png" style="height: 160px;" alt="nearestfit">
   </div>
-  <div style="">
+  <div>
     <h3>NearestFit - predicting MapReduce performance</h3>
     The NearestFit progress indicator targets accuracy of progress predictions for MapReduce jobs in the presence of
     data skewness and super-linear computations. This is achieved combining performance profiling, machine learning
@@ -96,6 +97,7 @@ title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza Un
 Our latest publications:
 <ul class="pub">
 
+  <!-- EC: per aggiungere pubblicazione basta editare assets/json/publications.json -->
   <li :id="p.id" v-for="p in publications">
     [{{ p.id }}]
     {{ p.authors }}.
