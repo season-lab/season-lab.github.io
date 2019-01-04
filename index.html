@@ -3,178 +3,188 @@ layout: default
 title: SEASON Lab - Software Analysis and Optimization Laboratory at Sapienza University of Rome
 ---
 {% raw %}
-          <p>
-          Welcome to the SoftwarE AnalysiS and OptimizatioN (aka SEASON) Laboratory at Sapienza University of Rome.
-          </p>
+<p>
+  Welcome to the SoftwarE AnalysiS and OptimizatioN (aka SEASON) Laboratory at Sapienza University of Rome.
+</p>
 
-          <h2 id="team">Team</h2>
-          <hr>
+<h2 id="team">Team</h2>
+<hr>
 
-          <div class="profiles">
+<div class="profiles">
 
-            <div class="profile-block" v-for="t in team">
-                
-                <div class="profile-photo">
-                  <img :src="t.img" class="profile-photo-img" :alt="t.name">
-                </div>
+  <div class="profile-block" v-for="t in team">
 
-                <div class="profile-desc">
-                  <h3>{{ t.name }}</h3>
-                  {{ t.email }}<br/>
-                  {{ t.role }}<br/>
-                  {{ t.affiliation }}<br/>
-                  <a v-if="t.url" :href="t.url">[website]</a>
-                  <a v-if="t.dblp" :href="t.dblp">[dblp]</a>
-                  <br/><br/>
-                </div>
-            </div>
+    <div class="profile-photo">
+      <img :src="t.img" class="profile-photo-img" :alt="t.name">
+    </div>
 
-          </div>
+    <div class="profile-desc">
+      <h3>{{ t.name }}</h3>
+      {{ t.email }}<br />
+      {{ t.role }}<br />
+      {{ t.affiliation }}<br />
+      <a v-if="t.url" :href="t.url">[website]</a>
+      <a v-if="t.dblp" :href="t.dblp">[dblp]</a>
+      <br /><br />
+    </div>
+  </div>
 
-          <br/>
+</div>
 
-          <b>Former students</b>:
-          <ul>
-                <li>Bruno Aleandri (M.Sc.), Valerio Bellizia (M.Sc.), Raffaele Di Fazio (M.Sc.),
-                Luca Di Maio (M.Sc.), Marco Finocchi (M.Sc.), Emanuele Fusco (post-doc), Alessandro Macchioni (M.Sc.), Romolo Marotta (B.Sc.), Fabio Rosato (M.Sc.), Andrea Fioraldi (B.Sc.), Andrea Prosseda (M.Sc.), Federico Palmaro (M.Sc.).</li>
-          </ul>
+<br />
 
-          <br/><br/>
+<b>Former students</b>:
+<ul>
+  <li>Bruno Aleandri (M.Sc.), Valerio Bellizia (M.Sc.), Raffaele Di Fazio (M.Sc.),
+    Luca Di Maio (M.Sc.), Marco Finocchi (M.Sc.), Emanuele Fusco (post-doc), Alessandro Macchioni (M.Sc.), Romolo
+    Marotta (B.Sc.), Fabio Rosato (M.Sc.), Andrea Fioraldi (B.Sc.), Andrea Prosseda (M.Sc.), Federico Palmaro (M.Sc.).</li>
+</ul>
 
-          <h2 id="projects">Projects</h2>
-          <hr>
+<br /><br />
 
-          <div>
-            <div style="float: left; padding-right: 40px;">
-              <img src="assets/img/aprof.png" alt="aprof">
-            </div>
-            <div>
-              <h3><a href="https://github.com/ercoppa/aprof/wiki">aprof</a> - input-sensitive profiling</h3>
-              aprof is a Valgrind tool for performance profiling designed to help developers discover hidden asymptotic inefficiencies in the code. From one or more runs of a program, aprof measures how the performance of individual routines scales as a function of the input size, yielding clues to its growth rate. <br/>
-              <u><i>Related papers:</i></u> <a href="#CDF-PLDI12">[CDF-PLDI12]</a> <a href="#CDFM-CGO14">[CDFM-CGO14]</a> <a href="#CDF-TSE14">[CDF-TSE14]</a> <a href="#C-VAL14">[C-VAL14]</a>
-            </div>
-            <div style="clear: both;"></div>
-          </div>
+<h2 id="projects">Projects</h2>
+<hr>
 
-          <br/><br/>
+<div>
+  <div style="float: left; padding-right: 40px;">
+    <img src="assets/img/aprof.png" alt="aprof">
+  </div>
+  <div>
+    <h3><a href="https://github.com/ercoppa/aprof/wiki">aprof</a> - input-sensitive profiling</h3>
+    aprof is a Valgrind tool for performance profiling designed to help developers discover hidden asymptotic
+    inefficiencies in the code. From one or more runs of a program, aprof measures how the performance of individual
+    routines scales as a function of the input size, yielding clues to its growth rate. <br />
+    <u><i>Related papers:</i></u> <a href="#CDF-PLDI12">[CDF-PLDI12]</a> <a href="#CDFM-CGO14">[CDFM-CGO14]</a> <a href="#CDF-TSE14">[CDF-TSE14]</a>
+    <a href="#C-VAL14">[C-VAL14]</a>
+  </div>
+  <div style="clear: both;"></div>
+</div>
 
-          <div>
-            <div style="float: left; padding-right: 40px; padding-left: 25px;">
-              <img src="assets/img/nearestfit.png" style="height: 160px;" alt="nearestfit">
-            </div>
-            <div style="">
-              <h3>NearestFit - predicting MapReduce performance</h3>
-              The NearestFit progress indicator targets accuracy of progress predictions for MapReduce jobs in the presence of data skewness and super-linear computations. This is achieved combining performance profiling, machine learning techniques, and data streaming algorithms.
-              <br/>
-              <u><i>Related papers:</i></u> <a href="#CF-SOCC15">[CF-SOCC15]</a>
-            </div>
-            <div style="clear: both;"></div>
-          </div>
+<br /><br />
 
-          <br/><br/>
+<div>
+  <div style="float: left; padding-right: 40px; padding-left: 25px;">
+    <img src="assets/img/nearestfit.png" style="height: 160px;" alt="nearestfit">
+  </div>
+  <div style="">
+    <h3>NearestFit - predicting MapReduce performance</h3>
+    The NearestFit progress indicator targets accuracy of progress predictions for MapReduce jobs in the presence of
+    data skewness and super-linear computations. This is achieved combining performance profiling, machine learning
+    techniques, and data streaming algorithms.
+    <br />
+    <u><i>Related papers:</i></u> <a href="#CF-SOCC15">[CF-SOCC15]</a>
+  </div>
+  <div style="clear: both;"></div>
+</div>
 
-          <h2 id="research">Research interests</h2>
-          <hr>
-          <ul>
-            <li>Malware Analysis</li>
-            <li>Performance Profiling</li>
-            <li>Adaptive Optimization</li>
-            <li>Big Data Performance Prediction</li>
-          </ul>
+<br /><br />
 
-          <br/><br/>
+<h2 id="research">Research interests</h2>
+<hr>
+<ul>
+  <li>Malware Analysis</li>
+  <li>Performance Profiling</li>
+  <li>Adaptive Optimization</li>
+  <li>Big Data Performance Prediction</li>
+</ul>
 
-          <h2 id="publications">Publications</h2>
-          <hr>
+<br /><br />
 
-          Our latest publications:
-          <ul class="pub">
+<h2 id="publications">Publications</h2>
+<hr>
 
-            <li :id="p.id" v-for="p in publications">
-                [{{ p.id }}] 
-                {{ p.authors }}. 
-                {{ p.title }}. 
-                <span v-html="p.conference.replace('Best Paper Award', '<b>Best Paper Award</b>')"></span><span v-if="!p.series">,</span>
-                <span v-if="p.series">(<b>{{ p.series }}</b>),</span>
-                <span v-if="p.volume"> {{ p.volume }},</span>
-                <span v-if="p.pages"> pp {{ p.pages }},</span>
-                {{ p.year }}. 
-                <a v-if="p.doi" target="_blank" :href="p.doi">[DOI]</a>
-                <a v-if="p.pdf" target="_blank" :href="p.pdf">[PDF]</a>
-                <a v-if="p.slides" target="_blank" :href="p.slides">[SLIDES]</a>
-                <a v-if="p.project" target="_blank" :href="p.project">[PROJECT SITE]</a>
-            </li>
+Our latest publications:
+<ul class="pub">
 
-          </ul>
+  <li :id="p.id" v-for="p in publications">
+    [{{ p.id }}]
+    {{ p.authors }}.
+    {{ p.title }}.
+    <span v-html="p.conference.replace('Best Paper Award', '<b>Best Paper Award</b>')"></span><span v-if="!p.series">,</span>
+    <span v-if="p.series">(<b>{{ p.series }}</b>),</span>
+    <span v-if="p.volume"> {{ p.volume }},</span>
+    <span v-if="p.pages"> pp {{ p.pages }},</span>
+    {{ p.year }}.
+    <a v-if="p.doi" target="_blank" :href="p.doi">[DOI]</a>
+    <a v-if="p.pdf" target="_blank" :href="p.pdf">[PDF]</a>
+    <a v-if="p.slides" target="_blank" :href="p.slides">[SLIDES]</a>
+    <a v-if="p.project" target="_blank" :href="p.project">[PROJECT SITE]</a>
+  </li>
 
-          <br/><br/>
+</ul>
 
-          <h2 id="grants">Grants</h2>
-          <hr>
+<br /><br />
 
-          <div>
-            <div style="float: left; padding-left: 20px;">
-              <img src="assets/img/amanda.gif" class="grant-image-img" alt="amanda" />
-            </div>
-            <div style="overflow: hidden; padding-top: 20px; padding-left: 30px;">
-              <a href="http://www.dia.uniroma3.it/~amanda/"><b>Amanda</b></a>: Algorithmics for MAssive and Networked DAta - MIUR, PRIN 2012
-            </div>
-            <div style="clear: left;"></div>
-          </div>
+<h2 id="grants">Grants</h2>
+<hr>
 
-          <br/><br/>
+<div>
+  <div style="float: left; padding-left: 20px;">
+    <img src="assets/img/amanda.gif" class="grant-image-img" alt="amanda" />
+  </div>
+  <div style="overflow: hidden; padding-top: 20px; padding-left: 30px;">
+    <a href="http://www.dia.uniroma3.it/~amanda/"><b>Amanda</b></a>: Algorithmics for MAssive and Networked DAta -
+    MIUR, PRIN 2012
+  </div>
+  <div style="clear: left;"></div>
+</div>
 
-          <div>
-            <div style="float: left; padding-left: 70px;">
-              <img src="assets/img/algodeep.jpg" class="grant-image-img"  alt="algodeep"/>
-            </div>
-            <div style="overflow: hidden; padding-top: 20px; padding-left: 60px;">
-              <a href="http://verona.dei.unipd.it/~prin08/"><b>AlgoDEEP</b></a>: Algorithmic Challenges for Data-intensive Processing on Emerging Computing Platforms - MIUR, PRIN 2008
-            </div>
-            <div style="clear: left;"></div>
-          </div>
+<br /><br />
 
-          <br/><br/>
+<div>
+  <div style="float: left; padding-left: 70px;">
+    <img src="assets/img/algodeep.jpg" class="grant-image-img" alt="algodeep" />
+  </div>
+  <div style="overflow: hidden; padding-top: 20px; padding-left: 60px;">
+    <a href="http://verona.dei.unipd.it/~prin08/"><b>AlgoDEEP</b></a>: Algorithmic Challenges for Data-intensive
+    Processing on Emerging Computing Platforms - MIUR, PRIN 2008
+  </div>
+  <div style="clear: left;"></div>
+</div>
 
-          <div>
-            <div style="float: left; padding-left: 55px;">
-              <img src="assets/img/mainstream.gif" class="grant-image-img" alt="mainstream"/>
-            </div>
-            <div style="overflow: hidden; padding-top: 20px; padding-left: 50px;">
-              <a href="http://www.dis.uniroma1.it/prin06/"><b>MainStream</b></a>: Algorithms for Massive Information Structures and Data Streams - MIUR, PRIN 2006
-            </div>
-            <div style="clear: left;"></div>
-          </div>
+<br /><br />
 
-          <br/><br/>
+<div>
+  <div style="float: left; padding-left: 55px;">
+    <img src="assets/img/mainstream.gif" class="grant-image-img" alt="mainstream" />
+  </div>
+  <div style="overflow: hidden; padding-top: 20px; padding-left: 50px;">
+    <a href="http://www.dis.uniroma1.it/prin06/"><b>MainStream</b></a>: Algorithms for Massive Information Structures
+    and Data Streams - MIUR, PRIN 2006
+  </div>
+  <div style="clear: left;"></div>
+</div>
 
-          <div>
-            <div style="float: left; padding-left: 55px;">
-              <img src="assets/img/algonext.gif" class="grant-image-img" alt="algonext"/>
-            </div>
-            <div style="overflow: hidden; padding-top: 20px; padding-left: 50px;">
-              <a href="http://wwwusers.di.uniroma1.it/~algonext/"><b>Algo-Next</b></a>: Algorithms for the Next Generation Internet and Web: Methodologies, Design and Applications - MIUR, PRIN 2004
-            </div>
-            <div style="clear: left;"></div>
-          </div>
+<br /><br />
 
-          <br/><br/>
+<div>
+  <div style="float: left; padding-left: 55px;">
+    <img src="assets/img/algonext.gif" class="grant-image-img" alt="algonext" />
+  </div>
+  <div style="overflow: hidden; padding-top: 20px; padding-left: 50px;">
+    <a href="http://wwwusers.di.uniroma1.it/~algonext/"><b>Algo-Next</b></a>: Algorithms for the Next Generation
+    Internet and Web: Methodologies, Design and Applications - MIUR, PRIN 2004
+  </div>
+  <div style="clear: left;"></div>
+</div>
 
-          <h2 id="Collaborations">National and international collaborations</h2>
-          <hr>
+<br /><br />
 
-          <ul>
-            <li>Northeastern University, USA</li>
-            <li>Purdue University, USA</li>
-            <li>Royal Holloway, University of London, UK</li>
-	    <li>TU Darmstadt, DE</li>
-	    <li>University of Mannheim, DE</li>
-	    <li>University of Kent, UK</li>
-            <li>University of Padova, IT</li>
-            <li>University of Perugia, IT</li>
-            <li>University of Pisa, IT</li>
-            <li>University of Rome Roma Tre, IT</li>
-            <li>University of Rome Tor Vergata, IT</li>
-          </ul>
+<h2 id="Collaborations">National and international collaborations</h2>
+<hr>
+
+<ul>
+  <li>Northeastern University, USA</li>
+  <li>Purdue University, USA</li>
+  <li>Royal Holloway, University of London, UK</li>
+  <li>TU Darmstadt, DE</li>
+  <li>University of Mannheim, DE</li>
+  <li>University of Kent, UK</li>
+  <li>University of Padova, IT</li>
+  <li>University of Perugia, IT</li>
+  <li>University of Pisa, IT</li>
+  <li>University of Rome Roma Tre, IT</li>
+  <li>University of Rome Tor Vergata, IT</li>
+</ul>
 
 {% endraw %}
