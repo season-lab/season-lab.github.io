@@ -1,64 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="Description" lang="en" content="{{ page.description }}">
-    <meta name="author" content="Emilio Coppa">
-    <meta name="robots" content="index, follow">
 
-    <!-- icons -->
-    <link rel="shortcut icon" type="image/png" href="favicon.png">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="Description" lang="en" content="{{ page.description }}">
+  <meta name="author" content="Emilio Coppa">
+  <meta name="robots" content="index, follow">
 
-    <!-- Override CSS file - add your own CSS rules -->
-    <link rel="stylesheet" href="assets/css/styles.css">
+  <!-- icons -->
+  <link rel="shortcut icon" type="image/png" href="favicon.png">
 
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.min.js"
-      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-      crossorigin="anonymous"></script>
+  <!-- Override CSS file - add your own CSS rules -->
+  <link rel="stylesheet" href="assets/css/styles.css">
 
-    <!-- script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script -->
-    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-  </head>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
 
-  <body>
-    <div id="app" class="container">
-      
-      <div class="header" style="min-height: 125px;">
-        <div style="float: left; margin: -10px 5px 0px 0px;" >
-          <img src="assets/img/sapienza.png" alt="sapienza" />
-        </div>
-        <div class="header-text" style="margin: auto; clear: right; ">
-          <h2 class="header-heading" >Software Analysis and Optimization Laboratory</h2><br/>
-          <h3 class="header-heading" style="padding-top: 0px;">Sapienza University of Rome </h3>
-        </div>
+  <!-- script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script -->
+  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+
+<body>
+  <div id="app" class="container">
+
+    <div class="header" style="min-height: 125px;">
+      <div style="float: left; margin: -10px 5px 0px 0px;">
+        <img src="assets/img/sapienza.png" alt="sapienza" />
       </div>
-
-      <div class="nav-bar">
-        <ul class="nav">
-          <li><a href="/#team">Team</a></li>
-          <li><a href="/#projects">Projects</a></li>            
-          <li><a href="/#research">Research</a></li>
-          <li><a href="/#publications">Publications</a></li>
-          <li><a href="/honors.html">Honors Program</a></li>
-          <li><a href="/CyberChallengeIT.html">CyberChallenge.IT</a></li>
-        </ul>
-      </div>
-
-      <div class="content">
-        <div class="main">
-          {{ content }}
-        </div>
-      </div>
-
-      <div class="footer">
-        SEASON Lab - Sapienza University of Rome
+      <div class="header-text" style="margin: auto; clear: right; ">
+        <h2 class="header-heading">Software Analysis and Optimization Laboratory</h2><br />
+        <h3 class="header-heading" style="padding-top: 0px;">Sapienza University of Rome </h3>
       </div>
     </div>
 
-    <script src="assets/js/main.js"></script>
-  </body>
+    <div class="nav-bar">
+      <ul class="nav">
+        <li><a href="/#team">Team</a></li>
+        <li><a href="/#projects">Projects</a></li>
+        <li><a href="/#research">Research</a></li>
+        <li><a href="/#publications">Publications</a></li>
+        <li><a href="/honors.html">Honors Program</a></li>
+        <li><a href="/CyberChallengeIT.html">CyberChallenge.IT</a></li>
+      </ul>
+    </div>
+
+    <div class="content">
+      <div class="main">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="footer">
+      SEASON Lab - Sapienza University of Rome
+    </div>
+  </div>
+
+  <script src="assets/js/main.js"></script>
+</body>
+
 </html>

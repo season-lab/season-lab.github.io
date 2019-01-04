@@ -1,17 +1,17 @@
 var app = new Vue({
 
   el: '#app',
-  
+
   data: {
     team: [],
     publications: [],
   },
-  
+
   methods: {
     fetchFromJson: function (jsonPath, vue, v) {
-        $.get(jsonPath, function(json) {
-            vue[v] = json.data;
-        })
+      $.get(jsonPath, function (json) {
+        vue[v] = json.data;
+      })
     }
   },
 
