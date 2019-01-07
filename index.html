@@ -99,19 +99,30 @@ Our latest publications:
 <ul class="pub">
 
   <!-- EC: per aggiungere pubblicazioni occorre editare assets/json/publications.json -->
-  <li :id="p.id" v-for="p in publications">
+  <li :id="p.id" v-for="(p, k) in publications">
     [{{ p.id }}]
-    {{ p.authors }}.
+    <span v-for="(a, index) of p.author">
+      {{ a.given }} {{ a.family }}<span v-if="Object.keys(p.author).length > 2 && index != Object.keys(p.author).length - 1">,</span><span v-if="index == Object.keys(p.author).length - 2"> and</span><span v-if="index == Object.keys(p.author).length - 1">.</span>
+    </span>
     {{ p.title }}.
+    {{ p['container-title'] }}<span v-if="p['collection-title']"> (<b>{{ p['collection-title'] }}</b>)</span>,
+    <span v-if="p.volume"> {{ p.volume }}({{ p.issue }}),</span>
+    <span v-if="p.page"> pp {{ p.page }},</span>
+    {{ p.issued['date-parts'][0][0] }}.
+    <a v-if="p.URL" target="_blank" :href="p.URL">[DOI]</a>
+    <a v-if="p.url_pdf" target="_blank" :href="p.url_pdf">[PDF]</a>
+    <a v-if="p.url_slides" target="_blank" :href="p.url_slides">[SLIDES]</a>
+    <a v-if="p.url_project" target="_blank" :href="p.url_project">[PROJECT SITE]</a>
+    <a v-on:click="showBibEntry(k)" class="bibBtn">[BIBTEX]</a>
+    <!--
     <span v-html="p.conference.replace('Best Paper Award', '<b>Best Paper Award</b>')"></span><span v-if="!p.series">,</span>
-    <span v-if="p.series">(<b>{{ p.series }}</b>),</span>
-    <span v-if="p.volume"> {{ p.volume }},</span>
-    <span v-if="p.pages"> pp {{ p.pages }},</span>
-    {{ p.year }}.
-    <a v-if="p.doi" target="_blank" :href="p.doi">[DOI]</a>
-    <a v-if="p.pdf" target="_blank" :href="p.pdf">[PDF]</a>
-    <a v-if="p.slides" target="_blank" :href="p.slides">[SLIDES]</a>
-    <a v-if="p.project" target="_blank" :href="p.project">[PROJECT SITE]</a>
+    -->
+    <div v-show="showBib === k" class="bibPopup" v-cloak>
+      <div class="modal-content">
+        <span class="close" v-on:click="showBibEntry(k)">&times;</span>
+        <pre style="overflow-y: auto;"><code style="overflow-y: auto;">{{ printBib(citations.data[k]) }}</code></pre>
+      </div>
+    </div>
   </li>
 
 </ul>
