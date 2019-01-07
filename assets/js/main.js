@@ -22,7 +22,7 @@ var app = new Vue({
       $.get(path, function (data) {
         vue.citations = new Cite(data);
         vue.publications = vue.citations.data;
-        //console.log(vue.citations.data);
+        console.log(vue.citations.data);
         //console.log(vue.citations)
         //console.log(example.format('bibtex'));
         //console.log(example.format('data'));
