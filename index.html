@@ -106,8 +106,10 @@ Our latest publications:
     </span>
     {{ p.title }}.
     {{ p['container-title'] }}<span v-if="p['collection-title']"> (<b>{{ p['collection-title'].replace('\'', '20') }}</b>)</span>,
+    <!--
     <span v-if="p.volume"> {{ p.volume }}<span v-if="p.issue">({{ p.issue }})</span>,</span>
     <span v-if="p.page"> pp {{ p.page }},</span>
+    -->
     {{ p.issued['date-parts'][0][0] }}.
     <a v-if="p.DOI" target="_blank" :href="'https://www.doi.org/' + p.DOI">[DOI]</a>
     <a v-else-if="p.URL" target="_blank" :href="p.URL">[DOI]</a>
