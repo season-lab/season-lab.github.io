@@ -12262,7 +12262,7 @@ var fieldTypes = { // BIBPROP
   version: 'string',
   volume: ['string', 'number'],
   articleno: 'string',
-  acmid: 'string'
+  acmid: 'string',
   'year-suffix': 'string'
 };
 
