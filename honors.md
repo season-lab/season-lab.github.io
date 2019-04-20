@@ -10,11 +10,19 @@ The Honors Programs of the B.Sc. and M.Sc. in Computer Science and Engineering i
 
 ## Students
 
+2018-2019:
+
+| ![alt text](assets/img/generic.jpg "Andrea Andreani") | ![alt text](assets/img/assaiante.png "Cristian Assaiante") | ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/generic.jpg "Matteo Marini") | ![alt text](assets/img/generic.jpg "Anxhelo Xhebraj")  |
+| :-------------: | :-------------: | :----------------: | :---------------------: | :-----------------: |
+| Andrea Andreani | Cristian Assaiante | Pietro Borrello | Matteo Marini | Anxhelo Xhebraj |
+
+<br />
+
 2017-2018:
 
-| ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/palmaro.jpg "Federico Palmaro") | ![alt text](assets/img/salvati.png "Andrea Salvati") | ![alt text](assets/img/assaiante.png "Cristian Assaiante") |
+| ![alt text](assets/img/assaiante.png "Cristian Assaiante") | ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/students/borzacchiello.png "Luca Borzacchiello") | ![alt text](assets/img/palmaro.jpg "Federico Palmaro") | ![alt text](assets/img/salvati.png "Andrea Salvati")  |
 | :-------------: | :----------------: | :---------------------: | :-----------------: | :-----------------: |
-| Pietro Borrello | Luca Borzacchiello | Federico Palmaro | Andrea Salvati | Cristian Assaiante |
+| Cristian Assaiante | Pietro Borrello | Luca Borzacchiello | Federico Palmaro | Andrea Salvati |
 
 <br />
 
