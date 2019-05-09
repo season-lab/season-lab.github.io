@@ -12,9 +12,9 @@ The Honors Programs of the B.Sc. and M.Sc. in Computer Science and Engineering i
 
 2018-2019:
 
-| ![alt text](assets/img/generic.jpg "Andrea Andreani") | ![alt text](assets/img/assaiante.png "Cristian Assaiante") | ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/marini.jpg "Matteo Marini") | ![alt text](assets/img/generic.jpg "Anxhelo Xhebraj")  |
-| :-------------------: | :-------------------: | :-------------------: | :-------------------: | :-------------------: |
-| Andrea Andreani | Cristian Assaiante | Pietro Borrello | Matteo Marini | Anxhelo Xhebraj |
+| ![alt text](assets/img/assaiante.png "Cristian Assaiante") | ![alt text](assets/img/students/borrello.png "Pietro Borrello") | ![alt text](assets/img/marini.jpg "Matteo Marini") | ![alt text](assets/img/generic.jpg "Anxhelo Xhebraj")  |
+| :-------------------: | :-------------------: | :-------------------: | :-------------------: |
+| Cristian Assaiante | Pietro Borrello | Matteo Marini | Anxhelo Xhebraj |
 
 <br />
 
