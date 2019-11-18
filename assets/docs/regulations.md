@@ -13,7 +13,7 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **5) (Scelta forum pubblicazione)** - La scelta del forum di pubblicazione di un risultato di ricerca viene presa collegialmente dai coautori.
 
-**6) (Comunicazione)** - Per ogni tema di ricerca di gruppo, viene creata una chat Telegram apposita dedicata agli aspetti rilevanti della ricerca, lasciando alle chat private ogni altro aspetto non strettamente connesso con il tema. Questo permette ai membri di compartimentalizzare le comunicazioni, tenendo tutti al corrente delle attività sul tema in gruppo in questione.
+**6) (Comunicazione)** - Per ogni tema di ricerca di gruppo, viene creata una chat Telegram apposita dedicata agli aspetti rilevanti della ricerca, lasciando alle chat private ogni altro aspetto non strettamente connesso con il tema. Questo permette ai membri di compartimentalizzare le comunicazioni, tenendo tutti al corrente delle attività sul tema di gruppo in questione.
 
 **7) (Progress report)** - E' previsto un incontro settimanale o bisettimanale in cui tutti i membri del gruppo relazionano brevemente sul progresso delle proprie attività e sui prossimi passi.
 
