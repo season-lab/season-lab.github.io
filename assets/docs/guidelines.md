@@ -17,7 +17,7 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **7) (Progress report)** - E' previsto un incontro settimanale o bisettimanale in cui tutti i membri del gruppo relazionano brevemente sul progresso delle proprie attività e sui prossimi passi.
 
-**8) (Authorship)** - Nelle pubblicazioni in cybersecurity del gruppo, il criterio per elencare gli autori segue l'orientamento caratteristico della comunità dell'ordine di contribution apportato al progetto. L'ordine viene concordato dal gruppo degli autori, con il team leader che opera da tie breaker ove necessario e che di norma appare come senior author (i.e. ultimo).
+**8) (Authorship)** - Nelle pubblicazioni in cybersecurity del gruppo, il criterio per elencare gli autori segue l'orientamento caratteristico della comunità dell'ordine di contribution apportato al progetto. L'ordine viene concordato dal gruppo degli autori, con il team leader che opera da tie breaker ove necessario e che di norma appare come senior author (i.e., ultimo).
 
 **9) (Limite temi ricerca simultanei)** - Sono previsti non più di due temi di ricerca paralleli per i dottorandi e per la quota dell'80% di ciascun post-doc. Eventuali altri temi di interesse vengono serializzati in modo da ottimizzare il throughput del gruppo.
 
@@ -32,3 +32,6 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 **14) (Fondi)** - Dottorandi e post-doc sono incoraggiati a fare domanda di finanziamento all'Ateneo o ad altri enti. Missioni e acquisti di attrezzature vengono concordati con il team leader. I membri usano di default i propri fondi personali. Quando esauriti, si attinge dai fondi del team leader. Il team leader è inoltre responsabile per il finanziamento delle borse dei post-doc.
 
 **15) (Assenza del group leader)** - In caso di assenza temporanea del group leader, i post-doc si accordano su come procedere con le attività secondo quanto stabilito in questo documento.
+
+**16) (Cena di gruppo)** - Un momento conviviale, diverso dagli usuali pranzi veloci di lavoro, è prezioso per il relax e il benessere del gruppo. Ci proponiamo di organizzarli a cadenza periodica, ad esempio di venerdì sera nell'ultima settimana di ogni mese.
+
