@@ -5,7 +5,7 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **1) (Benessere del gruppo)** - Il benessere dei membri di un gruppo di ricerca è il presupposto per il suo migliore funzionamento. Qualsiasi elemento di disturbo, anche il più piccolo, dovrebbe essere risolto mediante il dialogo onesto, sincero e rispettoso fra le persone coinvolte, cercando di comprendere le ragioni dell'altro, sforzandosi di venirgli incontro e mantenendo un linguaggio sempre pacato.
 
-**2) (Tutti per uno, uno per tutti)** - Ogni membro del gruppo opera nell'interesse di tutti gli altri membri del gruppo. Il curriculum dei vari membri si arricchisce di esperienze in modo il più possibile uniforme e a rotazione, sotto la supervisione del group leader. Se un membro viene a conoscenza di un'opportunità, informa il group leader e gli altri membri, che possono quindi beneficiarne. Nel caso in cui più membri dello stesso livello concorrano per la stessa opportunità, si procede a sorteggio.
+**2) (Tutti per uno, uno per tutti)** - Ogni membro del gruppo opera nell'interesse di tutti gli altri membri del gruppo. Il curriculum dei vari membri si arricchisce di esperienze in modo il più possibile uniforme e paritario nel tempo, sotto la supervisione del group leader. Se un membro viene a conoscenza di un'opportunità, informa il group leader e gli altri membri, che possono quindi beneficiarne.
 
 **3) (Regola dell'80-20)** - Ogni post-doc del gruppo dedica fino al 20% del tempo di ricerca su argomenti a propria scelta, eventualmente in collaborazione con propri tesisti o ricercatori esterni. Almeno l'80% del tempo dedicato alla ricerca è focalizzato su temi del gruppo. I dottorandi lavorano al 100% su temi del gruppo.
 
