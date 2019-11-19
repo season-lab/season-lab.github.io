@@ -17,7 +17,7 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **7) (Progress report)** - E' previsto un incontro settimanale o bisettimanale in cui tutti i membri del gruppo relazionano brevemente sul progresso delle proprie attività e sui prossimi passi.
 
-**8) (Authorship)** - Nell'elenco degli autori delle pubblicazioni in cybersecurity del gruppo, il primo autore è quello che ha maggiormente contribuito. Il group leader appare per ultimo. In pubblicazioni su temi diversi dalla cybersecurity si usa l'ordine alfabetico. I dottorandi evidenziano nella propria relazione annuale e nella tesi gli articoli di cui sono autori principali.
+**8) (Authorship)** - Nelle pubblicazioni in cybersecurity del gruppo, il criterio per elencare gli autori segue l'orientamento caratteristico della comunità dell'ordine di contribution apportato al progetto. L'ordine viene concordato dal gruppo degli autori, con il team leader che opera da tie breaker ove necessario e che di norma appare come senior author (i.e. ultimo).
 
 **9) (Limite temi ricerca simultanei)** - Sono previsti non più di due temi di ricerca paralleli per i dottorandi e per la quota dell'80% di ciascun post-doc. Eventuali altri temi di interesse vengono serializzati in modo da ottimizzare il throughput del gruppo.
 
