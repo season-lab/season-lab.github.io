@@ -25,12 +25,10 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **11) (Supervisione dottorandi)** - I dottorandi del gruppo sono sotto la diretta supervisione del team leader, che ne è advisor. I post-doc assistono il team leader nel coordinamento delle attività scientifiche del dottorando.
 
-**12) (Tutor corsi)** - I dottorandi possono svolgere attività di tutor per corsi universitari, previa approvazione del group leader.
+**12) (Didattiva)** - I dottorandi possono svolgere attività di tutor per corsi universitari, previa approvazione del group leader. I post-doc possono svolgere attività di docenza per corsi universitari, previa approvazione del group leader.
 
-**13) (Docenza)** - I post-doc possono svolgere attività di docenza per corsi universitari, previa approvazione del group leader.
+**13) (Relatori tesi)** - I post-doc possono essere relatori formali di tesisti triennali o magistrali, previa approvazione del group leader.
 
-**14) (Relatori tesi)** - I post-doc possono essere relatori formali di tesisti triennali o magistrali, previa approvazione del group leader.
+**14) (Fondi)** - Dottorandi e post-doc sono incoraggiati a fare domanda di finanziamento all'Ateneo o ad altri enti. Missioni e acquisti di attrezzature vengono concordati con il team leader. I membri usano di default i propri fondi personali. Quando esauriti, si attinge dai fondi del team leader. Il team leader è inoltre responsabile per il finanziamento delle borse dei post-doc.
 
-**15) (Fondi)** - Dottorandi e post-doc sono incoraggiati a fare domanda di finanziamento all'Ateneo o ad altri enti. Missioni e acquisti di attrezzature vengono concordati con il team leader. I membri usano di default i propri fondi personali. Quando esauriti, si attinge dai fondi del team leader. Il team leader è inoltre responsabile per il finanziamento delle borse dei post-doc.
-
-**16) (Assenza del group leader)** - In caso di assenza temporanea del group leader, i post-doc si accordano su come procedere con le attività secondo quanto stabilito in questo documento.
+**15) (Assenza del group leader)** - In caso di assenza temporanea del group leader, i post-doc si accordano su come procedere con le attività secondo quanto stabilito in questo documento.
