@@ -13,7 +13,7 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **5) (Scelta forum pubblicazione)** - La scelta del forum di pubblicazione di un risultato di ricerca viene presa collegialmente dai coautori.
 
-**6) (Comunicazione)** - Per ogni tema di ricerca di gruppo, viene creata una chat Telegram apposita dedicata agli aspetti rilevanti della ricerca, lasciando alle chat private ogni altro aspetto non strettamente connesso con il tema. Questo permette ai membri di compartimentalizzare le comunicazioni, tenendo tutti al corrente delle attività sul tema di gruppo in questione.
+**6) (Comunicazione)** - Per ogni tema di ricerca di gruppo, viene creata una chat Telegram apposita dedicata agli aspetti rilevanti del tema, lasciando alle chat private dettagli di poco interesse generale e ogni altro aspetto non strettamente connesso con il tema. Questo permette ai membri di compartimentalizzare le comunicazioni, tenendo tutti al corrente delle attività principali sul tema di gruppo in questione.
 
 **7) (Progress report)** - E' previsto un incontro settimanale o bisettimanale in cui tutti i membri del gruppo relazionano brevemente sul progresso delle proprie attività e sui prossimi passi.
 
@@ -25,7 +25,7 @@ Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione
 
 **11) (Supervisione dottorandi)** - I dottorandi del gruppo sono sotto la diretta supervisione del team leader, che ne è advisor. I post-doc assistono il team leader nel coordinamento delle attività scientifiche del dottorando.
 
-**12) (Didattiva)** - I dottorandi possono svolgere attività di tutor per corsi universitari, previa approvazione del group leader. I post-doc possono svolgere attività di docenza per corsi universitari, previa approvazione del group leader.
+**12) (Didattica)** - I dottorandi possono svolgere attività di tutor per corsi universitari, previa approvazione del group leader. I post-doc possono svolgere attività di docenza per corsi universitari, previa approvazione del group leader.
 
 **13) (Relatori tesi)** - I post-doc possono essere relatori formali di tesisti triennali o magistrali, previa approvazione del group leader.
 
