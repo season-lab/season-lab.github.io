@@ -1,7 +1,7 @@
 # Linee guida interne gruppo SeasonLab
 ### Rev 1 - 17 novembre 2019
 
-Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione con applicazioni alla sicurezza informatica. Questo documento presenta delle linee guida pensate per migliorare il funzionamento del gruppo, valorizzando il ruolo dei vari membri. Alla data odierna, il gruppo è formato da Camil Demetrescu (group leader), Daniele Cono D'Elia (post-doc), Emilio Coppa (post-doc), Pietro Borrello (dottorando) e Luca Borzacchielo (dottorando). Irene Finocchi è collaboratrice esterna.
+Il gruppo SeasonLab fa ricerca in program analysis e linguaggi di programmazione con applicazioni alla sicurezza informatica. Questo documento presenta delle linee guida pensate per migliorare il funzionamento del gruppo, valorizzando il ruolo dei vari membri. Alla data odierna, il gruppo è formato da Camil Demetrescu (group leader), Emilio Coppa (post-doc), Daniele Cono D'Elia (post-doc), Pietro Borrello (dottorando) e Luca Borzacchielo (dottorando). Irene Finocchi è collaboratrice esterna.
 
 **1) (Benessere del gruppo)** - Il benessere dei membri di un gruppo di ricerca è il presupposto per il suo migliore funzionamento. Qualsiasi elemento di disturbo, anche il più piccolo, dovrebbe essere risolto mediante il dialogo onesto, sincero e rispettoso fra le persone coinvolte, cercando di comprendere le ragioni dell'altro, sforzandosi di venirgli incontro e mantenendo un linguaggio sempre pacato.
 
