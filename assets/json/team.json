@@ -10,15 +10,6 @@
             "dblp": "http://dblp.uni-trier.de/pers/hd/d/Demetrescu:Camil"
         },
         {
-            "name": "Irene Finocchi",
-            "img": "assets/img/finocchi.png",
-            "email": "finocchi [at] di.uniroma1.it",
-            "role": "Associate Professor at DIAG",
-            "affiliation": "Sapienza University of Rome",
-            "url": "http://wwwusers.di.uniroma1.it/~finocchi/",
-            "dblp": "http://dblp.uni-trier.de/pers/hd/f/Finocchi:Irene"
-        },
-        {
             "name": "Emilio Coppa",
             "img": "assets/img/coppa.jpg",
             "email": "coppa [at] diag.uniroma1.it",
@@ -28,15 +19,6 @@
             "dblp": "http://dblp.uni-trier.de/pers/hd/c/Coppa:Emilio"
         },
         {
-            "name": "Daniele Cono D'Elia",
-            "img": "assets/img/delia.png",
-            "email": "delia [at] diag.uniroma1.it",
-            "role": "PostDoc at DIAG",
-            "affiliation": "Sapienza University of Rome",
-            "url": "http://www.dis.uniroma1.it/~delia/",
-            "dblp": "http://dblp.uni-trier.de/pers/hd/d/D=Elia:Daniele_Cono"
-        },
-        {
             "name": "Luca Borzacchiello",
             "img": "assets/img/borzacchiello.png",
             "email": "borzacchiello [at] diag.uniroma1.it",
@@ -44,20 +26,5 @@
             "affiliation": "Sapienza University of Rome",
             "url": "https://borzacchiello.github.io/"
         },
-        {
-            "name": "Renan Leon Garcia",
-            "img": "assets/img/renan.jpg",
-            "email": "garcia [at] di.uniroma1.it",
-            "role": "PhD at DI",
-            "affiliation": "Sapienza University of Rome"
-        },
-        {
-            "name": "Simone Nicchi",
-            "img": "assets/img/nicchi.jpg",
-            "email": "nicchi [at] diag.uniroma1.it",
-            "role": "PhD at DIAG",
-            "affiliation": "Sapienza University of Rome",
-            "url": "https://simuset.github.io"
-        }
     ]
 }
